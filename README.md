@@ -29,3 +29,11 @@ Dada una arreglo de argumentos, indicar cual es el maximo y minimo (mayor y meno
         int menor = Integer.parseInt(args[0]);
 
 El primer numero que ingresa va a ser el mayor y el menor a la vez, despues se compara para almacenarlo
+
+# Terminal
+
+Ingresó los siguientes argumentos: 10 3 5 7 11 15 1 2 4  
+
+El número mayor es: 15
+
+El número menor es: 1
